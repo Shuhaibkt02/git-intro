@@ -1,0 +1,50 @@
+body{
+    background-color:rgb(20, 16, 16);
+}
+body hr {
+    margin: 1;
+    color: white;
+    width: 99%
+}
+#main{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    font-weight: bolder;
+}
+#main h5{
+    padding: 1%;
+    margin: 0;
+    display: inline;
+    height: 1px;
+}
+#logo{
+    height:350px
+}
+aside{
+    color: white;
+    align-self: center;
+    height:40px
+}
+aside h3,h5{
+    display: flex;
+    justify-content: flex-end;
+    height: 2px;
+    font-weight: lighter;
+}
+#last{
+    background-color: white;
+    
+    
+}
+ #lastHH2{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius : 50px;
+}
+  #lastH2{
+    display: flex;
+    justify-content: flex-end;
+    
+}
